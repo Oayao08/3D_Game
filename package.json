@@ -1,0 +1,14 @@
+{
+  "name": "noctis-labyrinth",
+  "version": "1.0.0",
+  "description": "Juego 3D con IA y pathfinding usando Electron y Three.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "author": "Omar Ayaou <ayaouomar@fpllefia.com>",
+  "license": "MIT"
+}
