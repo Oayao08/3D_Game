@@ -1,7 +1,7 @@
 # Proyecto de verano (7-14 días)
 # Escape 3
 
-**Escape 3D** es un juego 3D en primera persona desarrollado con Three.js donde debes escapar de un enemigo que te persigue mientras recoges gemas. Combina acción, exploración y estrategia para lograr el objetivo antes de que el enemigo te alcance.
+**Escape 3D** es un juego 3D en primera persona desarrollado con Three.js donde debes escapar de un enemigo que te persigue mientras recoges gemas. Combina acción, exploración y estrategia para lograr el objetivo antes de que el enemigo te alcance. En el segundo 20, el juego se llena de tensión y el enemigo se vuelve furioso.
 
 
 ## Características
